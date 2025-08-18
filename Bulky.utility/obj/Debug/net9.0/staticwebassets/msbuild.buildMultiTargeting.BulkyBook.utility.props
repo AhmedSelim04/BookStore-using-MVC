@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BulkyBook.utility.props" />
+</Project>
