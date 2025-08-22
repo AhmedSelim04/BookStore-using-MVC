@@ -115,6 +115,20 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
         }
         public IActionResult OrderConfirmation(int id)
         {
+            OrderHeader orderHeader = _unitOfWork.OrderHeader.Get(u => u.id == id, includeProperties: "AppUser");
+       
+
+                HttpContext.Session.Clear();
+
+            
+
+
+            List<ShoppingCart> shoppingCarts = _unitOfWork.ShoppingCart
+                .GetAll(u => u.ApplicationUserId == orderHeader.AppUserId).ToList();
+
+            _unitOfWork.ShoppingCart.RemoveRange(shoppingCarts);
+            _unitOfWork.Save();
+
             return View(id);
         }
         public IActionResult Plus(int cartId)
@@ -132,13 +146,15 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
         }
         public IActionResult Minus(int cartId)
         {
-            var cartFromDb = _unitOfWork.ShoppingCart.Get(u => u.Id == cartId);
+            var cartFromDb = _unitOfWork.ShoppingCart.Get(u => u.Id == cartId, tracked: true);
             if (cartFromDb == null)
             {
                 return NotFound();
             }
             if (cartFromDb.Count <= 1)
             {
+                HttpContext.Session.SetInt32(SD.SessionCart,
+                   _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == cartFromDb.ApplicationUserId).ToList().Count() - 1); 
                 _unitOfWork.ShoppingCart.Remove(cartFromDb);
             }
             else
@@ -152,11 +168,14 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
         }
         public IActionResult Remove(int cartId)
         {
-            var cartFromDb = _unitOfWork.ShoppingCart.Get(u => u.Id == cartId);
+            var cartFromDb = _unitOfWork.ShoppingCart.Get(u => u.Id == cartId, tracked :true);
             if (cartFromDb == null)
             {
                 return NotFound();
             }
+            HttpContext.Session.SetInt32(SD.SessionCart,
+               _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == cartFromDb.ApplicationUserId).ToList().Count() - 1);
+
             _unitOfWork.ShoppingCart.Remove(cartFromDb);
             _unitOfWork.Save();
             TempData["success"] = "Cart updated successfully";

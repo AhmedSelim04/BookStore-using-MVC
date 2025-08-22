@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Project-folder-onlyyyy\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|f:\\project-folder-onlyyyy\\project\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|solutionrelative:areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE35D45-D327-E20B-DBC7-093489F3582C}|..\\Project.DataAccess\\BulkyBook.DataAccess.csproj|f:\\project-folder-onlyyyy\\project.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|f:\\project-folder-onlyyyy\\project\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|solutionrelative:areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE35D45-D327-E20B-DBC7-093489F3582C}|..\\Project.DataAccess\\BulkyBook.DataAccess.csproj|f:\\project-folder-onlyyyy\\project.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|f:\\project-folder-onlyyyy\\project\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|f:\\project-folder-onlyyyy\\project\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|f:\\project-folder-onlyyyy\\project\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|solutionrelative:areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|f:\\project-folder-onlyyyy\\project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CF9B11-B2AC-4F5C-804E-85014E4A008C}|..\\Bulky.utility\\BulkyBook.utility.csproj|f:\\project-folder-onlyyyy\\bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|f:\\project-folder-onlyyyy\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF48B72-A8CD-4267-B571-495950304AAF}|BulkyBookWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "F:\\Project-folder-onlyyyy\\Project\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "F:\\Project-folder-onlyyyy\\Project\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA7wBwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T21:50:52.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "F:\\Project-folder-onlyyyy\\Project\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "F:\\Project-folder-onlyyyy\\Project\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T21:50:46.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\Project-folder-onlyyyy\\Project.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\Project.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "F:\\Project-folder-onlyyyy\\Project.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "..\\Project.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T21:50:02.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\Project-folder-onlyyyy\\Project.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Project.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "F:\\Project-folder-onlyyyy\\Project.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "..\\Project.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T21:47:37.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "F:\\Project-folder-onlyyyy\\Project\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "F:\\Project-folder-onlyyyy\\Project\\Areas\\Customer\\Controllers\\CartController.cs*",
+              "RelativeToolTip": "Areas\\Customer\\Controllers\\CartController.cs*",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAkwHUAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T21:21:17.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Project-folder-onlyyyy\\Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Project-folder-onlyyyy\\Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvz8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T19:53:50.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Project-folder-onlyyyy\\Project\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "F:\\Project-folder-onlyyyy\\Project\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T19:53:41.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Project-folder-onlyyyy\\Project\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Project-folder-onlyyyy\\Project\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwEEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:46:25.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SD.cs",
+              "DocumentMoniker": "F:\\Project-folder-onlyyyy\\Bulky.utility\\SD.cs",
+              "RelativeDocumentMoniker": "..\\Bulky.utility\\SD.cs",
+              "ToolTip": "F:\\Project-folder-onlyyyy\\Bulky.utility\\SD.cs",
+              "RelativeToolTip": "..\\Bulky.utility\\SD.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:44:38.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Project-folder-onlyyyy\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Project-folder-onlyyyy\\Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAxwDQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:38:21.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DotNet\\E-commerce\\Project.DataAccess\\BulkyBook.DataAccess.csproj": {}
+    "F:\\Project-folder-onlyyyy\\Project.DataAccess\\BulkyBook.DataAccess.csproj": {}
   },
   "projects": {
-    "F:\\DotNet\\E-commerce\\Bulky.Models\\BulkyBook.Models.csproj": {
+    "F:\\Project-folder-onlyyyy\\Bulky.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DotNet\\E-commerce\\Bulky.Models\\BulkyBook.Models.csproj",
+        "projectUniqueName": "F:\\Project-folder-onlyyyy\\Bulky.Models\\BulkyBook.Models.csproj",
         "projectName": "BulkyBook.Models",
-        "projectPath": "F:\\DotNet\\E-commerce\\Bulky.Models\\BulkyBook.Models.csproj",
+        "projectPath": "F:\\Project-folder-onlyyyy\\Bulky.Models\\BulkyBook.Models.csproj",
         "packagesPath": "C:\\Users\\EL-MAGIC\\.nuget\\packages\\",
-        "outputPath": "F:\\DotNet\\E-commerce\\Bulky.Models\\obj\\",
+        "outputPath": "F:\\Project-folder-onlyyyy\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -89,14 +89,14 @@
         }
       }
     },
-    "F:\\DotNet\\E-commerce\\Bulky.utility\\BulkyBook.utility.csproj": {
+    "F:\\Project-folder-onlyyyy\\Bulky.utility\\BulkyBook.utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DotNet\\E-commerce\\Bulky.utility\\BulkyBook.utility.csproj",
+        "projectUniqueName": "F:\\Project-folder-onlyyyy\\Bulky.utility\\BulkyBook.utility.csproj",
         "projectName": "BulkyBook.utility",
-        "projectPath": "F:\\DotNet\\E-commerce\\Bulky.utility\\BulkyBook.utility.csproj",
+        "projectPath": "F:\\Project-folder-onlyyyy\\Bulky.utility\\BulkyBook.utility.csproj",
         "packagesPath": "C:\\Users\\EL-MAGIC\\.nuget\\packages\\",
-        "outputPath": "F:\\DotNet\\E-commerce\\Bulky.utility\\obj\\",
+        "outputPath": "F:\\Project-folder-onlyyyy\\Bulky.utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -174,14 +174,14 @@
         }
       }
     },
-    "F:\\DotNet\\E-commerce\\Project.DataAccess\\BulkyBook.DataAccess.csproj": {
+    "F:\\Project-folder-onlyyyy\\Project.DataAccess\\BulkyBook.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DotNet\\E-commerce\\Project.DataAccess\\BulkyBook.DataAccess.csproj",
+        "projectUniqueName": "F:\\Project-folder-onlyyyy\\Project.DataAccess\\BulkyBook.DataAccess.csproj",
         "projectName": "BulkyBook.DataAccess",
-        "projectPath": "F:\\DotNet\\E-commerce\\Project.DataAccess\\BulkyBook.DataAccess.csproj",
+        "projectPath": "F:\\Project-folder-onlyyyy\\Project.DataAccess\\BulkyBook.DataAccess.csproj",
         "packagesPath": "C:\\Users\\EL-MAGIC\\.nuget\\packages\\",
-        "outputPath": "F:\\DotNet\\E-commerce\\Project.DataAccess\\obj\\",
+        "outputPath": "F:\\Project-folder-onlyyyy\\Project.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -203,11 +203,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "F:\\DotNet\\E-commerce\\Bulky.Models\\BulkyBook.Models.csproj": {
-                "projectPath": "F:\\DotNet\\E-commerce\\Bulky.Models\\BulkyBook.Models.csproj"
+              "F:\\Project-folder-onlyyyy\\Bulky.Models\\BulkyBook.Models.csproj": {
+                "projectPath": "F:\\Project-folder-onlyyyy\\Bulky.Models\\BulkyBook.Models.csproj"
               },
-              "F:\\DotNet\\E-commerce\\Bulky.utility\\BulkyBook.utility.csproj": {
-                "projectPath": "F:\\DotNet\\E-commerce\\Bulky.utility\\BulkyBook.utility.csproj"
+              "F:\\Project-folder-onlyyyy\\Bulky.utility\\BulkyBook.utility.csproj": {
+                "projectPath": "F:\\Project-folder-onlyyyy\\Bulky.utility\\BulkyBook.utility.csproj"
               }
             }
           }
