@@ -1,0 +1,12 @@
+F:\Project-folder-onlyyyy\Bulky.Models\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project-folder-onlyyyy\Project.DataAccess\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project-folder-onlyyyy\Bulky.utility\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project-folder-onlyyyy\Bulky.Models\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project-folder-onlyyyy\Project.DataAccess\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project-folder-onlyyyy\Bulky.utility\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project-folder-onlyyyy\Bulky.Models\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project-folder-onlyyyy\Project.DataAccess\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project-folder-onlyyyy\Bulky.utility\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project-folder-onlyyyy\Bulky.Models\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project-folder-onlyyyy\Project.DataAccess\obj\Debug\net9.0\staticwebassets.build.json
+F:\Project-folder-onlyyyy\Bulky.utility\obj\Debug\net9.0\staticwebassets.build.json
